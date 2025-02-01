@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737981099 source:d:\hello\calculate your age\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+
